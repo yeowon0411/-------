@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.89d6e5c9.css",
+    "main.js": "/portfolio/static/js/main.0a024384.js",
+    "static/js/787.ec704a7a.chunk.js": "/portfolio/static/js/787.ec704a7a.chunk.js",
+    "static/media/커리.jpg": "/portfolio/static/media/커리.7d5c7e87b85382bd7d4e.jpg",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.90013166cc1e19f8d228.jpg",
+    "static/media/탕.JPG": "/portfolio/static/media/탕.a11a2b49f1c698ce5067.JPG",
+    "static/media/종이질감.JPG": "/portfolio/static/media/종이질감.fbea7791f7a73a45789c.JPG",
+    "static/media/리액트.JPG": "/portfolio/static/media/리액트.cb61107f59bac7209e58.JPG",
+    "index.html": "/portfolio/index.html",
+    "main.89d6e5c9.css.map": "/portfolio/static/css/main.89d6e5c9.css.map",
+    "main.0a024384.js.map": "/portfolio/static/js/main.0a024384.js.map",
+    "787.ec704a7a.chunk.js.map": "/portfolio/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89d6e5c9.css",
+    "static/js/main.0a024384.js"
+  ]
+}
