@@ -1,0 +1,21 @@
+.sub_article{
+    float: right; 
+    width: 20%;
+    margin: 1%;
+    align-items: center;
+    border-left: #000 solid 1px;
+  }
+
+  .title_2{
+    font-family: 'KOTRA_BOLD-Bold';
+    text-decoration: none;
+    color: #000; 
+    font-size: 17px;
+  }
+
+  .profile_2{
+    align-items: center;
+    justify-content: center; /* 가로 가운데 정렬도 필요하면 추가 */
+    width: 100%; /* 필요한 경우 가로 가운데 정렬을 위한 너비 설정 */
+    height: 100%;
+  }
