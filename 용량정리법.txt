@@ -1,8 +1,0 @@
-c:\Users\dudnj\OneDrive\바탕 화면\대학교\3-2\고급웹프로그램
-OneDrive\바탕 화면\대학교\3-2\고급웹프로그램
-
-rmdir /s /q node_modules
-
-new-item -itemtype symbolicLink -Path "C:\Users\dudnj\OneDrive\바탕 화면\대학교\3-2\고급웹프로그램\week5\week5-5"  -name node_modules -target  
-"C:\Users\dudnj\OneDrive\바탕 화면\대학교\3-2\고급웹프로그램\week2\node_modules"
-
