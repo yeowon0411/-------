@@ -23,8 +23,8 @@
 }
 
 .profile_3 {
-  width: 40%;
-  height: 40%;
+  width: 30%;
+  height: 30%;
   position: relative;
   float: right;
 }
@@ -46,13 +46,12 @@
   text-decoration: none;
 }
 
-.article_font_project {
+.article_font_project{
+  font-family:'Chosunilbo_myungjo';
   position: relative;
   display: inline;
-  font-family: 'KOTRA_BOLD-Bold';
-  text-decoration: "none";
-  color:#000;
-}
+  color: #000; 
+} 
 
 
 .card {

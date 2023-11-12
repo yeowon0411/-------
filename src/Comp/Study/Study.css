@@ -34,10 +34,11 @@
     display: inline;
   }
 
-  .article_font{
+  .article_font_study{
+    font-family:'Chosunilbo_myungjo';
     position: relative;
     display: inline;
-    font-family: 'KOTRA_BOLD-Bold';
+    color: #000; 
   }
 
 

@@ -33,6 +33,13 @@
     display: inline;
   }
 
+  .article_font_car{
+    font-family:'Chosunilbo_myungjo';
+    position: relative;
+    display: inline;
+    color: #000; 
+  } 
+
   .article_font{
     position: relative;
     display: inline;

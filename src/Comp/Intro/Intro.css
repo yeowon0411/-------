@@ -30,12 +30,12 @@
     font-size: 50px;
   }
 
-  .article_font{
+  .article_font_int{
+    font-family:'Chosunilbo_myungjo';
     position: relative;
     display: inline;
     color: #000; 
   } 
-
 
   .transparent-button {
     font-family: 'KOTRA_BOLD-Bold';
