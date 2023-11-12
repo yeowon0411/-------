@@ -32,4 +32,20 @@
   .article_font{
     position: relative;
     display: inline;
-  }  
+  } 
+
+
+  .transparent-button {
+    font-family: 'KOTRA_BOLD-Bold';
+    background-color: transparent;
+    border: transparent;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .transparent-button:hover {
+    background-color: rgba(52, 152, 219, 0.1); /* hover 시 배경색 */
+  }

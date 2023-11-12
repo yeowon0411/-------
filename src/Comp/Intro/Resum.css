@@ -1,0 +1,65 @@
+head {
+	font-size: 14px;
+	font-family: "맑은 고딕", 나눔고딕, 돋움, sans-serif;
+}
+.border{
+	text-align: center;
+
+}
+.header_1 {
+	background-color: rgb(216, 217, 223);
+	align-items: center;
+	width: 1000px;
+	height: 400px;
+	margin: auto;
+}
+
+.header_1 .left {
+	width: 10%;
+	display: inline-block;
+	height: 400px;
+	box-sizing: border-box;
+}
+
+.header_1 .right {
+	width: 70%;
+	display: inline-block;
+	height: 10px;
+	box-sizing: border-box;
+	vertical-align: bottom;
+	text-align: right;
+}
+
+.body {
+	font-size: 20px;
+	font-family: "맑은 고딕", 나눔고딕, 돋움, sans-serif;
+	margin: auto;
+}
+
+.body-container {
+	padding: 20px;
+}
+
+.table {
+	width: 100%;
+	border-collapse: collapse;
+	border : 0;
+	margin-top: 30px;
+}
+
+.table tr {
+	border-bottom: 1px solid #ccc;
+	font-size: 20px;
+	font-weight: 400;
+}
+
+.table thead tr:first-child {
+	border-bottom: 3px solid #333;
+}
+
+.table th, .table td {
+	padding: 6px 0;
+	border: none;
+	border-left: none;
+	border-right: none;
+}
