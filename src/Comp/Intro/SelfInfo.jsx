@@ -1,7 +1,7 @@
 
 function SelfInfo() {
     return (
-        <div className="">
+        <div style={{height:"30vw"}}>
             <div>
                 <img src={require("./증사.png")} style={{ height: '350px', paddingLeft: '30px', paddingRight:'50px', float: 'left' }} />
             </div>

@@ -1,6 +1,6 @@
 import "./Study.css";
 import { useState } from "react";
-import studies from "./data";
+import StudyCard from "./StudyCard";
 
 function StudyMain() {
     const [index, setIndex] = useState(0);
@@ -8,18 +8,9 @@ function StudyMain() {
         setIndex(event.target.value);
     };
     return (
-        <div>
-            <div style={{ textAlign: 'center'}}>
-            {studies.map((studie, index) => (
-                <button className="transparent-button" onClick={contentChange} value={index}>
-                    {studie.tab}
-                </button>
-            ))}
-            </div>
-            <br /> <br />
-            {studies[index].content}
+        <div className="card_border">
+            <StudyCard />
         </div>
-
     );
 }
 export default StudyMain;

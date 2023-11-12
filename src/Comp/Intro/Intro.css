@@ -4,8 +4,9 @@
     margin: 1%;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0); /* 초기 그림자 없음 */
     transition: box-shadow 0.3s ease;
-    width:75%;
+    width:76%;
     filter: grayscale(100%);
+    border-radius: 5px;
   }
   .article_border:hover {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); /* 그림자 효과 설정 */
@@ -32,6 +33,7 @@
   .article_font{
     position: relative;
     display: inline;
+    color: #000; 
   } 
 
 

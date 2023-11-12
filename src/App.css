@@ -14,12 +14,6 @@
   justify-content: center; /* 수평 가운데 정렬 */
   align-items: center
 }
-.vertical-line {
-  position: relative;
-  float: right;
-  height: 30%;
-  border-left: 3px solid #000; /* 수직선 스타일 및 두께 설정 */
-}
 
 .news{
   position: relative;

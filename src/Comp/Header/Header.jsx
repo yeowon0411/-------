@@ -1,9 +1,10 @@
 import "./Header.css";
+import { Link } from "react-router-dom";
 function Header() {
     return (
         <div>
             <header className="header">
-                여원 일보
+            <a  style={{ textDecoration: "none", color:"black"}} href="/portfolio"> 여원 일보</a>
             </header>
             <hr className="black"/>
             <div className="line">
