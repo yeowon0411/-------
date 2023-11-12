@@ -1,22 +1,18 @@
-.article_border2{
-
-  text-align: center;
-    display: inline-block;
+.article_border_act3{
     margin: 1%;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0); /* 초기 그림자 없음 */
     transition: box-shadow 0.3s ease;
-    width:40%;
-    filter: grayscale(100%);
-    border-radius: 5px;
-  }
-  .article_border2:hover {
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); /* 그림자 효과 설정 */
-    filter: none;
-  }
-  .profile_4{
-    width: 80%;
-    height: 80%;
+    width:100%;
     position: relative;
+    float: right;
+    border-radius: 5px;
+    filter: grayscale(100%);
+  }
+  .profile_act3{
+    width: 40%;
+    height: 40%;
+    position: relative;
+    float: right;
   }
 
   @font-face {
@@ -34,15 +30,17 @@
     display: inline;
   }
 
-  .article_font_car{
+  .article_font_act3{
     font-family:'Chosunilbo_myungjo';
     position: relative;
     display: inline;
     color: #000; 
-  } 
+  }
 
-  .article_font{
-    position: relative;
-    display: inline;
-    font-family: 'KOTRA_BOLD-Bold';
+
+  .card{
+    position: fixed;
+    width: 5%;
+    height: 10%;
+    color: #000;
   }

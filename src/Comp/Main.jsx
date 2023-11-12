@@ -3,6 +3,7 @@ import Intro from "./Intro/Intro";
 import Project from "./Project/Project";
 import Article from "./Article/Article";
 import Article2 from "./Article/Article2";
+import Article3 from "./Article/Article3";
 import Study from "./Study/Study";
 import Career from "./Career/Career";
 
@@ -19,9 +20,12 @@ function Main() {
                 <Project />
             </div>
             <hr />
-            <div>
-                <Career />
+            <div className="c">
+                <Career style={{float: "left"}}/>
+                <div className="right">
                 <Study />
+                <Article3/>
+                </div>
             </div>
         </div>
     );
