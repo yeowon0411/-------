@@ -1,20 +1,30 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.89d6e5c9.css",
-    "main.js": "/portfolio/static/js/main.4bf5f463.js",
+    "main.css": "/portfolio/static/css/main.bd9b4037.css",
+    "main.js": "/portfolio/static/js/main.5def625b.js",
     "static/js/787.ec704a7a.chunk.js": "/portfolio/static/js/787.ec704a7a.chunk.js",
-    "static/media/커리.jpg": "/portfolio/static/media/커리.7d5c7e87b85382bd7d4e.jpg",
+    "static/media/과외.jpg": "/portfolio/static/media/과외.5803cc46e3d3e01cf3f7.jpg",
+    "static/media/기숙사.jpg": "/portfolio/static/media/기숙사.af5653f5a79d41d0d55e.jpg",
+    "static/media/탕.png": "/portfolio/static/media/탕.33858d4fbe777b7977e5.png",
+    "static/media/커리.jpg": "/portfolio/static/media/커리.aac1c5d98fafef04b521.jpg",
+    "static/media/피자.jpg": "/portfolio/static/media/피자.f6d1d7e7a50b60f9d974.jpg",
     "static/media/profile.jpg": "/portfolio/static/media/profile.90013166cc1e19f8d228.jpg",
-    "static/media/탕.JPG": "/portfolio/static/media/탕.a11a2b49f1c698ce5067.JPG",
+    "static/media/머신러닝.jpg": "/portfolio/static/media/머신러닝.c0913ed5498d7e32de14.jpg",
+    "static/media/증사.png": "/portfolio/static/media/증사.2f2ec0d4b31b08f35174.png",
+    "static/media/react.jpg": "/portfolio/static/media/react.bcfb0d5bc2be391e240b.jpg",
+    "static/media/book.png": "/portfolio/static/media/book.93dee49a1f1c3bbcd260.png",
+    "static/media/Spring.jpg": "/portfolio/static/media/Spring.d7f426eeef162713ba54.jpg",
+    "static/media/리액트.png": "/portfolio/static/media/리액트.9b756486d2555197e7ed.png",
+    "static/media/node.jpg": "/portfolio/static/media/node.ad03a9342492b7c1d2d7.jpg",
+    "static/media/스프링.png": "/portfolio/static/media/스프링.96a350c1dfaeb3159ad8.png",
     "static/media/종이질감.JPG": "/portfolio/static/media/종이질감.fbea7791f7a73a45789c.JPG",
-    "static/media/리액트.JPG": "/portfolio/static/media/리액트.cb61107f59bac7209e58.JPG",
     "index.html": "/portfolio/index.html",
-    "main.89d6e5c9.css.map": "/portfolio/static/css/main.89d6e5c9.css.map",
-    "main.4bf5f463.js.map": "/portfolio/static/js/main.4bf5f463.js.map",
+    "main.bd9b4037.css.map": "/portfolio/static/css/main.bd9b4037.css.map",
+    "main.5def625b.js.map": "/portfolio/static/js/main.5def625b.js.map",
     "787.ec704a7a.chunk.js.map": "/portfolio/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.89d6e5c9.css",
-    "static/js/main.4bf5f463.js"
+    "static/css/main.bd9b4037.css",
+    "static/js/main.5def625b.js"
   ]
 }
